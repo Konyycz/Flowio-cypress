@@ -1,0 +1,6 @@
+export const link_modules = '[data-cy~="link-modules"]'
+export const input_container = '[data-cy="input-container"]'
+export const name_input = '[data-cy="Name-input-column"]'
+export const add_button = '[data-cy="button add-record-button"]'
+export const nav_settings = '[data-cy="nav-settings-link"]'
+export const submit_button = '[data-cy="button submit-form-button"]'
